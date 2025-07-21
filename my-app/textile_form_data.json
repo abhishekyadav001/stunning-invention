@@ -1,0 +1,353 @@
+{
+  "English": [
+    {
+      "category": "Raw Cotton Processing",
+      "subCategory": "Ginning",
+      "keyTask": "Separating seeds from cotton"
+    },
+    {
+      "category": "Raw Cotton Processing",
+      "subCategory": "Ginning",
+      "keyTask": "Cleaning"
+    },
+    {
+      "category": "Raw Cotton Processing",
+      "subCategory": "Ginning",
+      "keyTask": "Baling and storage"
+    },
+    {
+      "category": "Yarn Production (Spinning)",
+      "subCategory": "Blowroom",
+      "keyTask": "Opening raw cotton"
+    },
+    {
+      "category": "Yarn Production (Spinning)",
+      "subCategory": "Blowroom",
+      "keyTask": "Initial cleaning"
+    },
+    {
+      "category": "Yarn Production (Spinning)",
+      "subCategory": "Carding",
+      "keyTask": "Straightening fibers"
+    },
+    {
+      "category": "Yarn Production (Spinning)",
+      "subCategory": "Carding",
+      "keyTask": "Converting into sliver"
+    },
+    {
+      "category": "Yarn Production (Spinning)",
+      "subCategory": "Drawing",
+      "keyTask": "Making fiber thickness uniform"
+    },
+    {
+      "category": "Yarn Production (Spinning)",
+      "subCategory": "Roving",
+      "keyTask": "Applying mild twist"
+    },
+    {
+      "category": "Yarn Production (Spinning)",
+      "subCategory": "Roving",
+      "keyTask": "Preparing for final spinning"
+    },
+    {
+      "category": "Yarn Production (Spinning)",
+      "subCategory": "Ring Spinning",
+      "keyTask": "Producing fine yarn"
+    },
+    {
+      "category": "Yarn Production (Spinning)",
+      "subCategory": "Ring Spinning",
+      "keyTask": "Winding yarn on bobbins"
+    },
+    {
+      "category": "Yarn Production (Spinning)",
+      "subCategory": "Rotor Spinning",
+      "keyTask": "Producing coarse yarn"
+    },
+    {
+      "category": "Yarn Production (Spinning)",
+      "subCategory": "Rotor Spinning",
+      "keyTask": "High-speed yarn spinning"
+    },
+    {
+      "category": "Weaving",
+      "subCategory": "Loom Operator",
+      "keyTask": "Operating looms"
+    },
+    {
+      "category": "Weaving",
+      "subCategory": "Loom Operator",
+      "keyTask": "Maintaining warp and weft"
+    },
+    {
+      "category": "Weaving",
+      "subCategory": "Warping",
+      "keyTask": "Arranging yarns on warp beams"
+    },
+    {
+      "category": "Weaving",
+      "subCategory": "Warping",
+      "keyTask": "Tension adjustment"
+    },
+    {
+      "category": "Weaving",
+      "subCategory": "Sizing",
+      "keyTask": "Applying sizing paste"
+    },
+    {
+      "category": "Weaving",
+      "subCategory": "Sizing",
+      "keyTask": "Strengthening yarn before weaving"
+    },
+    {
+      "category": "Knitting",
+      "subCategory": "Circular Knitting",
+      "keyTask": "Producing tubular fabric"
+    },
+    {
+      "category": "Knitting",
+      "subCategory": "Circular Knitting",
+      "keyTask": "Operating circular machines"
+    },
+    {
+      "category": "Knitting",
+      "subCategory": "Flat Knitting",
+      "keyTask": "Producing flat fabric"
+    },
+    {
+      "category": "Knitting",
+      "subCategory": "Flat Knitting",
+      "keyTask": "Operating flatbed machines"
+    },
+    {
+      "category": "Dyeing",
+      "subCategory": "Yarn Dyeing",
+      "keyTask": "Dyeing yarn cones"
+    },
+    {
+      "category": "Dyeing",
+      "subCategory": "Yarn Dyeing",
+      "keyTask": "Monitoring temperature and dye mix"
+    },
+    {
+      "category": "Dyeing",
+      "subCategory": "Fabric Dyeing",
+      "keyTask": "Batch or continuous dyeing"
+    },
+    {
+      "category": "Dyeing",
+      "subCategory": "Fabric Dyeing",
+      "keyTask": "Drying and curing"
+    },
+    {
+      "category": "Dyeing",
+      "subCategory": "Color Matching",
+      "keyTask": "Lab dip testing"
+    },
+    {
+      "category": "Dyeing",
+      "subCategory": "Color Matching",
+      "keyTask": "Matching approved shades"
+    },
+    {
+      "category": "Printing",
+      "subCategory": "Screen Printing",
+      "keyTask": "Manual or rotary screen printing"
+    },
+    {
+      "category": "Printing",
+      "subCategory": "Screen Printing",
+      "keyTask": "Color registration"
+    },
+    {
+      "category": "Printing",
+      "subCategory": "Digital Printing",
+      "keyTask": "Feeding digital design"
+    },
+    {
+      "category": "Printing",
+      "subCategory": "Digital Printing",
+      "keyTask": "Ink control and machine operation"
+    },
+    {
+      "category": "Finishing",
+      "subCategory": "Heat Setting",
+      "keyTask": "Stabilizing fabric dimensions"
+    },
+    {
+      "category": "Finishing",
+      "subCategory": "Chemical Finishing",
+      "keyTask": "Applying softeners, waterproofing"
+    },
+    {
+      "category": "Finishing",
+      "subCategory": "Chemical Finishing",
+      "keyTask": "Anti-shrink finishing"
+    },
+    {
+      "category": "Finishing",
+      "subCategory": "Compacting",
+      "keyTask": "Controlling fabric shrinkage"
+    },
+    {
+      "category": "Finishing",
+      "subCategory": "Compacting",
+      "keyTask": "Final fabric smoothing"
+    },
+    {
+      "category": "Quality Control",
+      "subCategory": "Fabric Inspection",
+      "keyTask": "Identifying defects"
+    },
+    {
+      "category": "Quality Control",
+      "subCategory": "Fabric Inspection",
+      "keyTask": "Using 4-point or 10-point system"
+    },
+    {
+      "category": "Quality Control",
+      "subCategory": "Lab Testing",
+      "keyTask": "GSM test"
+    },
+    {
+      "category": "Quality Control",
+      "subCategory": "Lab Testing",
+      "keyTask": "Shrinkage test"
+    },
+    {
+      "category": "Quality Control",
+      "subCategory": "Lab Testing",
+      "keyTask": "Colorfastness test"
+    },
+    {
+      "category": "Quality Control",
+      "subCategory": "Lab Testing",
+      "keyTask": "Pilling test"
+    },
+    {
+      "category": "Storage and Dispatch",
+      "subCategory": "Fabric Rolling",
+      "keyTask": "Rolling fabrics"
+    },
+    {
+      "category": "Storage and Dispatch",
+      "subCategory": "Fabric Rolling",
+      "keyTask": "Labelling and tagging"
+    },
+    {
+      "category": "Storage and Dispatch",
+      "subCategory": "Packing",
+      "keyTask": "Bundling rolls"
+    },
+    {
+      "category": "Storage and Dispatch",
+      "subCategory": "Packing",
+      "keyTask": "Packaging for dispatch"
+    },
+    {
+      "category": "Storage and Dispatch",
+      "subCategory": "Dispatch Clerk",
+      "keyTask": "Inventory entry"
+    },
+    {
+      "category": "Storage and Dispatch",
+      "subCategory": "Dispatch Clerk",
+      "keyTask": "Preparing delivery challans"
+    }
+  ],
+  "Hindi": [
+    {
+      "category": "1. कच्चा कपास प्रसंस्करण",
+      "subCategory": "Ginning (जिनिंग)",
+      "keyTask": "• कपास से बीज अलग करना• सफाई करना• बेलिंग और स्टोरेज"
+    },
+    {
+      "category": "2. स्पिनिंग (धागा बनाना)",
+      "subCategory": "Blowroom",
+      "keyTask": "• कच्चे कपास को खोलना और साफ़ करना"
+    },
+    {
+      "category": "3. वीविंग / बुनाई",
+      "subCategory": "Loom Operator",
+      "keyTask": "• पावरलूम या ऑटो लूम चलाना• वार्प-वेफ्ट मिलाना"
+    },
+    {
+      "category": "4. निटिंग (Knitting)",
+      "subCategory": "Circular Knitting",
+      "keyTask": "• सर्कुलर मशीन से बुना कपड़ा बनाना"
+    },
+    {
+      "category": "5. डाइंग (रंगाई)",
+      "subCategory": "Yarn Dyeing",
+      "keyTask": "• धागे के कोन्स को मशीन में रंगना"
+    },
+    {
+      "category": "6. प्रिंटिंग",
+      "subCategory": "Screen Printing",
+      "keyTask": "• मैनुअल या रोटरी स्क्रीन द्वारा प्रिंट करना"
+    },
+    {
+      "category": "7. फिनिशिंग (Final Processing)",
+      "subCategory": "Heat Setting",
+      "keyTask": "• कपड़े को स्टेबलाइज करना"
+    },
+    {
+      "category": "8. गुणवत्ता नियंत्रण",
+      "subCategory": "Fabric Inspection",
+      "keyTask": "• 4-Point या 10-Point सिस्टम से चेकिंग"
+    },
+    {
+      "category": "9. स्टोरेज व डिस्पैच",
+      "subCategory": "Fabric Rolling & Packing",
+      "keyTask": "• रोल बनाना, टैगिंग और बंडलिंग"
+    }
+  ],
+  "Marathi": [
+    {
+      "category": "१. कच्च्या कापसाचे प्रक्रियाजन्य काम",
+      "subCategory": "जिनिंग (Ginning)",
+      "keyTask": "• कापसातून बिया वेगळ्या करणे• सफाई करणे• बॅलिंग व साठवणूक"
+    },
+    {
+      "category": "२. सूत बनवणे (स्पिनिंग)",
+      "subCategory": "ब्लो रूम (Blowroom)",
+      "keyTask": "• कच्चा कापूस उघडणे व स्वच्छ करणे"
+    },
+    {
+      "category": "३. विणकाम (Weaving)",
+      "subCategory": "लूम ऑपरेटर",
+      "keyTask": "• पॉवरलूम/ऑटो लूम चालवणे• वॉर्प व वेफ्ट सांभाळणे"
+    },
+    {
+      "category": "४. विणीव (Knitting)",
+      "subCategory": "सर्क्युलर निटिंग",
+      "keyTask": "• सर्क्युलर निटिंग मशीन चालवणे"
+    },
+    {
+      "category": "५. रंगकाम (Dyeing)",
+      "subCategory": "सूत रंगवणे (Yarn Dyeing)",
+      "keyTask": "• कोनमध्ये सूत रंगवणे"
+    },
+    {
+      "category": "६. प्रिंटिंग",
+      "subCategory": "स्क्रीन प्रिंटिंग",
+      "keyTask": "• मॅन्युअल / रोटरी स्क्रीनने प्रिंट करणे"
+    },
+    {
+      "category": "७. फिनिशिंग",
+      "subCategory": "हीट सेटिंग",
+      "keyTask": "• कापडाचे माप स्थिर करणे"
+    },
+    {
+      "category": "८. गुणवत्ता नियंत्रण",
+      "subCategory": "कापड तपासणी",
+      "keyTask": "• 4-पॉइंट किंवा 10-पॉइंट पद्धतीने दोष तपासणे"
+    },
+    {
+      "category": "९. स्टोरेज व पाठवणी",
+      "subCategory": "कापड रोलिंग व पॅकिंग",
+      "keyTask": "• रोल बनवणे, टॅग करणे व बंडलिंग"
+    }
+  ]
+}
