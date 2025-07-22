@@ -114,7 +114,7 @@ export default function TextileForm() {
 
     return (
         <ScrollView contentContainerStyle={[styles.container, { backgroundColor: theme.background }]} style={{ flex: 1 }}>
-            <Text style={[styles.heading, { color: theme.text }]}>Textile to Fabric Form</Text>
+            <Text style={[styles.heading, { color: theme.text }]}>Textile Form</Text>
             <View style={[styles.card, { backgroundColor: theme.card, borderColor: theme.border }]}>
                 <Text style={[styles.label, { color: theme.label }]}>Select Language</Text>
                 <View style={[styles.pickerWrapper, { backgroundColor: theme.pickerBg, borderColor: theme.border }]}>
